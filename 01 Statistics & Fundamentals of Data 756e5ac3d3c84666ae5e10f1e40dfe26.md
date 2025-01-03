@@ -112,7 +112,7 @@ Examples:
 
 ### Flowchart for types of data
 
-![Untitled](Untitled.png)
+![Types of data](https://github.com/rajapramod/StatisticsAndProbability/blob/8b0292d286475dd858ba5aba1bf7b28566e81bab/images/1-types-of-data-classification.png)
 
 ### Differences between descriptive and inferential statistics?
 
