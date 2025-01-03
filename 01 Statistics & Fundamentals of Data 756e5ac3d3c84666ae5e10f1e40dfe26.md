@@ -10,7 +10,7 @@
 - To recognize patterns that can refine how we do everything from selling diapers to catching criminals.
 - To make sense of the data: To answer important socio-economic questions, to evaluate the effectiveness of policies, programs, drugs, medical procedures, and other innovations, to catch cheaters and prosecute criminals.
 
-### What are the types of statistics?
+### Types
 
 #### 1. Descriptive Statistics
 Descriptive statistics is the process where we summarize, describe & collect the key features of the gathered data (population or a sample). 
@@ -31,13 +31,13 @@ Example: You randomly select a sample of 11th graders in your state and collect 
 </aside>
     
 
-### What is the meaning of "individuals" and "variables" in statistics?
+### "Individuals" vs. "Variables"
 - Individuals are people/objects/records included in a study. 
 Example: 5 individuals could be 5 people, 5 records or 5 reports.
 - Variable is a characteristic of the individual to be measured or observed. 
 Example: Age of an individual, time an individual is recorded.
 
-### Differences between population and sample?
+### Population vs. Sample
 
 | Population | Sample |
 | --- | --- |
@@ -46,7 +46,7 @@ Example: Age of an individual, time an individual is recorded.
 
 **Representative sample:** A sample that reflects population as accurately as possible.
 
-### Differences between population parameter and a sample statistic?
+### Population parameter vs. Sample statistic
 
 | Population parameter | Sample statistic |
 | --- | --- |
@@ -82,7 +82,7 @@ Categorical data is collection of information that is divided into groups.
 | Interval Data | Ratio Data |
 |---|---|
 | Absolute point zero is arbitrary; i.e., mathematical meaning of zero is not maintained. | There’s an absolute-zero value. |
-| The lack of absolute point-zero makes direct magnitudes impossible. \ Example (1): Object A is twice as object B is not a possibility in interval data. \ Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. <br> Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
+| The lack of absolute point-zero makes direct magnitudes impossible. &nbsp; Example (1): Object A is twice as object B is not a possibility in interval data. Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. <br> Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
 | A variable can be measured even it has a negative value. <br>Example: Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. Example: A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
 | Other examples: IQ test results, SAT scores. (IQ of 0 do not exist). | Other example: Heights (in cm, km. etc). Distances between two points. |
 
