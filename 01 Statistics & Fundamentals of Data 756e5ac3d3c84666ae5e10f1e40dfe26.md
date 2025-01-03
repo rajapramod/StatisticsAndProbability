@@ -63,21 +63,24 @@ Data in the form of labels, categories & numbers (with ordering).
 Categorical data is collection of information that is divided into groups.
 
 1. <u>**Binary data**</u> - The data can take only two possible values. Example: Toss of a coin, On/Off, 0/1, etc.
-2. <u>**Nominal & Ordinal data </u>** - 
+2. <u>**Nominal & Ordinal data </u>** -
+   
     **Nominal data** - Nominal data is a type of categorical data where data is coded in a manner to represent a label. <br>Example: Names of cars, book titles and marital status.
+   
     **Ordinal data** - Data is ordered and follows a natural hierarchy. <br>Example: Customer satisfaction score, rank lists, movie ratings, order of people in a line, etc.
- 3.  <u>**Ratio and Interval data**</u> - 
+ 4.  <u>**Ratio and Interval data**</u> -
+    
 	 **Ratio data** - Type of quantitative data where:
 		- There’s absolute/true zero-point.
 		- Both differences and ratios between two values are meaningful.
-
-		**Interval data** - Type of quantitative data where:
-		- There’s no absolute/true zero point. If data is zero, it does not indicate the absence of the attribute being measured.
-		- Difference between the values are meaningful but ratio between the values are not.
+	**Interval data** - Type of quantitative data where:
+	- There’s no absolute/true zero point. If data is zero, it does not indicate the absence of the attribute being measured.
+	- Difference between the values are meaningful but ratio between the values are not.
 
 
 | Interval Data | Ratio Data |
 |---|---|
+|<div style="width: 20%;">Data 1</div>|<div style="width: 80%;">Data 2</div>|
 | Absolute point zero is arbitrary; i.e., mathematical meaning of zero is not maintained. | There’s an absolute-zero value. |
 | The lack of absolute point-zero makes direct magnitudes impossible. <br>Example (1): Object A is twice as object B is not a possibility in interval data. <br> Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. <br> Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
 | A variable can be measured even it has a negative value. <br>Example: Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. Example: A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
