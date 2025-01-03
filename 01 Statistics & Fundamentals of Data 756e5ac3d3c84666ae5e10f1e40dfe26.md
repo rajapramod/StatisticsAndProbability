@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 
 ### Statistics
 - Study of collecting, organizing, analyzing and interpreting data.
