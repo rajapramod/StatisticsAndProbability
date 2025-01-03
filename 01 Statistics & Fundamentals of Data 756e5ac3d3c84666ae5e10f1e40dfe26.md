@@ -83,7 +83,7 @@ Categorical data is collection of information that is divided into groups.
 |---|---|
 | Absolute point zero is arbitrary; i.e., mathematical meaning of zero is not maintained. | There’s an absolute-zero value. |
 | The lack of absolute point-zero makes direct magnitudes impossible. &nbsp; Example (1): Object A is twice as object B is not a possibility in interval data. &nbsp; Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. &nbsp; Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
-| A variable can be measured even it has a negative value. &nbsp;Example: Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. Example: A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
+| A variable can be measured even it has a negative value. &nbsp;Example (1): Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. &nbsp;Example (2): A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
 | Other examples: IQ test results, SAT scores. (IQ of 0 do not exist). | Other example: Heights (in cm, km. etc). Distances between two points. |
 
 ### Numerical (Quantitative) Data
@@ -102,7 +102,7 @@ Examples:
 * Sales
 * Account balance, etc.
 
-### Differences between qualitative and quantitative data?
+### Qualitative vs. Quantitative data
 
 | Qualitative Data (Categorical) | Quantitative Data (Numerical) |
 | --- | --- |
@@ -110,11 +110,11 @@ Examples:
 | Describes attributes that can be observed but not measured. | Captures measure of an attribute. |
 | Example: Flavors in an ice-cream, hair colors, profession, car models, etc. | Examples: Heights of students, cost of a car, Age of a person, etc. |
 
-### Flowchart for types of data
+### Classification of types of data
 
 ![Types of data](https://github.com/rajapramod/StatisticsAndProbability/blob/8b0292d286475dd858ba5aba1bf7b28566e81bab/images/1-types-of-data-classification.png)
 
-### Differences between descriptive and inferential statistics?
+### Descriptive vs. Inferential statistics
 
 |  | Descriptive Statistics | Inferential Statistics |
 | --- | --- | --- |
@@ -123,11 +123,3 @@ Examples:
 | Population vs Sample | Focuses on the entire population. | Focuses on subset of a population to draw conclusions on entire population. |
 | Measurement tools & techniques | Uses measures of central tendency and dispersion, like mean, median, mode, standard deviation, range, variance, skewness, etc. | Uses methods like hypothesis testing, confidence intervals, regression analysis, ANOVA (analysis of variance), chi-square tests, t-tests, etc. |
 | Goal | To summarize, organize & present data. | Generalize findings to a larger population, make predictions, test hypotheses, evaluate relationships, and support decision-making. |
-
-### Questions
-
-- What is census?
-    The process of conducting a survey to collect data for the entire population is called a census.
-    
-- What is a sample survey?
-    The process of conducting a survey to collect data for a sample is called a sample survey.
