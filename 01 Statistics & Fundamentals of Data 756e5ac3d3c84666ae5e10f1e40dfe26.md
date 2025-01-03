@@ -82,8 +82,8 @@ Categorical data is collection of information that is divided into groups.
 | Interval Data | Ratio Data |
 |---|---|
 | Absolute point zero is arbitrary; i.e., mathematical meaning of zero is not maintained. | There’s an absolute-zero value. |
-| The lack of absolute point-zero makes direct magnitudes impossible. &nbsp; Example (1): Object A is twice as object B is not a possibility in interval data. Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. <br> Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
-| A variable can be measured even it has a negative value. <br>Example: Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. Example: A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
+| The lack of absolute point-zero makes direct magnitudes impossible. &nbsp; Example (1): Object A is twice as object B is not a possibility in interval data. &nbsp; Example (2): Temperature measured in celsius scale. 20°C is NOT twice as warm as 10°C.| The presence of absolute zero point makes direct magnitudes valid. <br>Example (1): The quantity of 20 measured in ratio scale is twice the value of 10. &nbsp; Example (2): Temperature measured in kelvin scale. 20K is twice as warm as 10K.|
+| A variable can be measured even it has a negative value. &nbsp;Example: Temperatures like:  $-10^0C$. | There cannot be any negative commercial value in ratio data. Example: A variable in kelvin scale. Point zero is absolute. There cannot be a temperature below 0 in kelvin scale.  |
 | Other examples: IQ test results, SAT scores. (IQ of 0 do not exist). | Other example: Heights (in cm, km. etc). Distances between two points. |
 
 ### Numerical (Quantitative) Data
